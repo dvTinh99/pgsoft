@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon80/4</title>
+    <g id="icon80/4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_code">
+            <circle id="椭圆形" stroke="#ABABAB" cx="40" cy="40" r="39.5"></circle>
+            <g id="coding-icon" transform="translate(28.000000, 26.000000)" stroke="#FF2D55">
+                <g id="Group">
+                    <polygon id="路径" stroke-width="2.2" points="25.8690927 19.7340029 25.8690927 0 0 0 0 30 14.1075967 30"></polygon>
+                    <g id="编组-3" transform="translate(5.000000, 7.000000)" stroke-width="2">
+                        <polyline id="路径-2" points="3.9398688 0.996621363 0 4.98803576 3.9398688 8.97945015"></polyline>
+                        <polyline id="路径-2备份" transform="translate(13.484611, 4.988036) scale(-1, 1) translate(-13.484611, -4.988036) " points="15.4545455 0.996621363 11.5146767 4.98803576 15.4545455 8.97945015"></polyline>
+                        <line x1="9.10759666" y1="0" x2="6.28299366" y2="8.97945015" id="路径-3"></line>
+                    </g>
+                </g>
+                <polyline id="Path-10" stroke-width="2.2" points="25.8690927 20 14.4123429 20 14.4123429 30"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>upload</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="upload" transform="translate(-272.000000, -70.000000)" stroke="#ABABAB">
+            <g transform="translate(272.000000, 70.000000)">
+                <path d="M23.8844832,0.936170213 L33.0638298,9.01452826 L33.0638298,39.0638298 L0.936170213,39.0638298 L0.936170213,0.936170213 L23.8844832,0.936170213 Z" id="Rectangle-Copy-2" stroke-width="1.87234043"></path>
+                <g id="plus-icon" transform="translate(9.000000, 13.000000)" stroke-width="2">
+                    <line x1="0" y1="7.5" x2="15" y2="7.5" id="path7"></line>
+                    <line x1="7.5" y1="15" x2="7.5" y2="2.83106871e-14" id="path7" transform="translate(7.500000, 7.500000) scale(1, -1) translate(-7.500000, -7.500000) "></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
